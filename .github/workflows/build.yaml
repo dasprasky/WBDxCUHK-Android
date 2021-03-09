@@ -11,6 +11,6 @@ jobs:
       - name: Checkout the code
         uses: actions/checkout@v2
       - name: Add execution permission
-        uses: chmod +ux gradlew
+        uses: chmod +x ./gradlew
       - name: Build the app
         run: ./gradlew build
