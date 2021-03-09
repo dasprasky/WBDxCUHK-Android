@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WBDxCUHK</string>
+    <string name="Age">Age</string>
+    <string name="ID">Student ID</string>
+    <string name="Agree">Agree &amp; Continue</string>
+    <string name="Disclaimer">Disclaimer</string>
+    <string name="Disclaimer_content">The content of this mobile application is subject to change without notice. The Nethersole School of Nursing of The Chinese University of Hong Kong accepts no liability for any loss or damage howsoever arising from any use or misuse of or reliance on any information in this mobile application. All information collected is for statistical analysis and reference use. The Nethersole School of Nursing is committed to ensuring that all personal data are handled in accordance with the provisions of the Personal Data (Privacy) Ordinance.</string>
+    <string name="title_activity_home_activity">MainActivity</string>
+    <string name="title_todo">To-Do</string>
+    <string name="title_user_profile">User</string>
+    <string name="surveys">Surveys</string>
+    <string name="Record">Record Earphone Data</string>
+    <string name="show_unnamed_devices">Show Unnamed Devices</string>
+    <string name="search_button_name">SEARCH FOR DEVICES</string>
+    <string name="hr_text">Heart Rate</string>
+    <string name="temp_text">Temperature</string>
+    <string name="rr_text">Respiration Rate</string>
+    <string name="stress_text">Stress Level</string>
+    <string name="fatigue_text">Fatigue</string>
+    <string name="default_value">-</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="record_data">Record</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="day_1">Day Before Mock Examination</string>
+    <string name="day_2_a">Day Of Mock Examination</string>
+    <string name="day_2_b">During Mock Examination</string>
+    <string name="day_3">Day After Mock Examination</string>
+</resources>
